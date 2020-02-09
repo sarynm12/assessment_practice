@@ -1,0 +1,13 @@
+backpack
+
+attributes
+  color ('string')
+  zipped (boolean)
+  weight (integer)
+  keychains (array)
+
+methods
+  change_color (changes the color attribute)
+  unzip (change boolean status from true to false)
+  add_books (increases weight integer)
+  add_keychain (append a keychain item into the keychains array)
